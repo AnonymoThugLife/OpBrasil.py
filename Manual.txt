@@ -20,7 +20,7 @@ pip install socks
 
 caso contrário, você receberá a mensagem de erro "socks"
 
-Se você tiver todos os módulos, tente reiniciar a ferramenta .. comando "python2 OpBrasil.py" se você não receber nenhum erro, ele será executado e você estará pronto para colocar a merda offline <3
+Se você tiver todos os módulos, tente reiniciar a ferramenta .. comando "python OpBrasil.py" se você não receber nenhum erro, ele será executado e você estará pronto para colocar a merda offline <3
 
 Link para Python 2.7+ " https://www.python.org/download/releases/2.7/ "
 
