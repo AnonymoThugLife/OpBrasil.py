@@ -2,7 +2,7 @@ Saudações, sou @AnonymoThugLife e Este é o guia para usar esta ferramenta .. 
 
 Você precisaria do Python 2.7+. Você pode obtê-lo nos links na internet como sua primeira consulta do Google.
 
-Os módulos que você precisa são BeautifulSoup ... para fazê-lo No seu terminal:
+Os módulos que você precisa são BeautifulSoup, bs4, socks, socks5 ... para fazê-lo No seu terminal:
 
 pip install BeautifulSoup
 
