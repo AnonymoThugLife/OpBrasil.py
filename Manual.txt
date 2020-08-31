@@ -1,0 +1,28 @@
+Saudações, sou @AnonymoThugLife e Este é o guia para usar esta ferramenta .. Meu presente para você :)
+
+Você precisaria do Python 2.7+. Você pode obtê-lo nos links na internet como sua primeira consulta do Google.
+
+Os módulos que você precisa são BeautifulSoup ... para fazê-lo No seu terminal:
+
+pip install BeautifulSoup
+
+caso contrário, você receberá a mensagem de erro "você precisa instalar: bs4" (Precisa do -> pip install bs4 )
+
+O próximo módulo que você precisa é:
+
+pip install requests
+
+caso contrário, você receberá a mensagem de erro "você precisa instalar: requests"
+
+último mas não menos importante, o último módulo:
+
+pip install socks
+
+caso contrário, você receberá a mensagem de erro "socks"
+
+Se você tiver todos os módulos, tente reiniciar a ferramenta .. comando "python2 OpBrasil.py" se você não receber nenhum erro, ele será executado e você estará pronto para colocar a merda offline <3
+
+Link para Python 2.7+ " https://www.python.org/download/releases/2.7/ "
+
+Nós somos anônimos, somos legião, não perdoamos, não esquecemos .. NOS ESPERE!
+
