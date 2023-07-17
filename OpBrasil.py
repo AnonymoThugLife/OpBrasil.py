@@ -1,6 +1,3 @@
-#O maior script de DDoS do Brasil ;)
-#Ola :)
-#Vamos derrubar essa merda :D
 import socket,random,threading,time,ssl,sys,time,re
 try:
  import requests
@@ -10,13 +7,13 @@ except:
 try:
  import socks
 except:
- print "voce precisa instalar: socks"
+ print "voce precisa instalar: socks,socks5,pysocks"
  sys.exit()
 try:
  import bs4
  from bs4 import BeautifulSoup
 except:
- print "voce precisa instalar: bs4"
+ print "voce precisa instalar: BeautifulSoup,bs4"
  sys.exit()
 ua=[
 'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0;   Acoo Browser; GTB5; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;   SV1) ; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30618)',
@@ -1535,16 +1532,16 @@ print """ \033[1;32m
                                      101011        10101001
                                         110        100
 
-                                        #AnonymoThugLife
-                                       #AnonymoThugLife
-                                        #AnonymoThugLife
+                                        #GhostVoltz 
+                                       #GhostVoltz
+                                        #GhostVoltz
  
  
 +----------------------------------- #BL4CK L1V3S M4TTE3S# --------------------------------------+  
    \033[1;36m  
 				
-	\033[1;36mAnonymous : \033[1;44mAnonimoThugLife \033[0;m\033[1;46m LulzSec \033[0;m
-   Telegram : @Anonym0ThugLife
+	\033[1;36mAnonymous : \033[1;44mGhostVoltz \033[0;m\033[1;46m  \033[0;m
+   TikTok : @GhostVoltz_
                                                
 \033[0;m 
 \033[1;36m___________________________________________________________________\033[0;m                        
